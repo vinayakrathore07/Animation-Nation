@@ -6526,6 +6526,13 @@ let cards = [
     author: 'Marion',
     githubLink: 'https://github.com/marionjudy13'
   },
+  {
+    artName: 'Mail Check',
+    pageLink: './Art/vr07/index.html',
+    imageLink: './Art/vr07/mail.gif',
+    author: 'Vinayak',
+    githubLink: 'https://github.com/vinayakrathore07'
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
